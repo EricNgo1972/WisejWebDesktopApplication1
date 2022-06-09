@@ -40,6 +40,6 @@
 //                             Custom settings are available using Application.Configuration.Settings.
 {
 	"url": "Default.html",
-	"startup": "WisejWebDesktopApplication1.Program.Main, WisejWebDesktopApplication1"
-  //"theme": "Bootstrap-4"
+	"startup": "WisejWebDesktopApplication1.Program.Main, WisejWebDesktopApplication1",
+  "theme": "Bootstrap-4"
 }
